@@ -122,7 +122,7 @@ ESP8266-Wireless-PPT-Controller/
 │   └── ESP8266_PPT_Controller.ino
 │
 ├── Python_Controller/
-│   └── ppt_controller.py
+│   └── main.py
 │
 ├── README.md
 └── requirements.txt
